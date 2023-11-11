@@ -1,0 +1,11 @@
+version: '3'
+services:
+  sftp:
+    image: atmoz/sftp
+    ports:
+      - "22:22"
+    environment:
+      SFTP_USERS: "foo:pass:::upload"
+    volumes:
+      - ./sftp-data:/home/foo/upload
+    restart: always
