@@ -1,0 +1,1057 @@
+﻿cultivo_nombre,anio,campania,provincia_nombre,provincia_id,departamento_nombre,departamento_id,superficie_sembrada_ha,superficie_cosechada_ha,produccion_tm,rendimiento_kgxha
+soja,1969,1969/70,Buenos Aires,06,Arrecifes,06077,150,150,191,1273
+soja,1969,1969/70,Buenos Aires,06,Capitán Sarmiento,06140,50,50,65,1300
+soja,1969,1969/70,Buenos Aires,06,Colón,06175,120,120,144,1200
+soja,1969,1969/70,Buenos Aires,06,Pergamino,06623,600,600,780,1300
+soja,1969,1969/70,Buenos Aires,06,Rojas,06686,150,150,170,1133
+soja,1969,1969/70,Buenos Aires,06,Salto,06714,200,200,250,1250
+soja,1969,1969/70,Chaco,22,1° de Mayo,22126,20,20,13,650
+soja,1969,1969/70,Chaco,22,25 de Mayo,22168,10,10,7,700
+soja,1969,1969/70,Chaco,22,General Donovan,22056,30,30,20,667
+soja,1969,1969/70,Chaco,22,Libertador General San Martín,22084,40,40,32,800
+soja,1969,1969/70,Chaco,22,O'Higgins,22112,30,30,24,800
+soja,1969,1969/70,Chaco,22,Quitilipi,22133,10,10,7,700
+soja,1969,1969/70,Chaco,22,San Fernando,22140,10,10,7,700
+soja,1969,1969/70,Corrientes,18,Empedrado,18042,7,7,8,1143
+soja,1969,1969/70,Corrientes,18,Ituzaingó,18084,468,445,504,1133
+soja,1969,1969/70,Corrientes,18,Saladas,18126,25,24,24,1000
+soja,1969,1969/70,Corrientes,18,Santo Tomé,18168,100,94,94,1000
+soja,1969,1969/70,Formosa,34,Laishí,34021,15,15,15,1000
+soja,1969,1969/70,Formosa,34,Pirané,34056,180,175,145,829
+soja,1969,1969/70,Mendoza,50,San Carlos,50091,35,0,0,0
+soja,1969,1969/70,Misiones,54,25 de Mayo,54119,860,817,703,860
+soja,1969,1969/70,Misiones,54,Apóstoles,54007,75,71,60,845
+soja,1969,1969/70,Misiones,54,Cainguás,54014,2850,2679,2679,1000
+soja,1969,1969/70,Misiones,54,Candelaria,54021,220,207,186,899
+soja,1969,1969/70,Misiones,54,Concepción,54035,75,71,61,859
+soja,1969,1969/70,Misiones,54,El dorado,54042,370,348,361,1037
+soja,1969,1969/70,Misiones,54,General Manuel Belgrano,54049,720,677,677,1000
+soja,1969,1969/70,Misiones,54,Guaraní,54056,110,104,104,1000
+soja,1969,1969/70,Misiones,54,Iguazú,54063,2800,2660,2524,949
+soja,1969,1969/70,Misiones,54,Leandro N. Alem,54070,160,151,148,980
+soja,1969,1969/70,Misiones,54,Libertador General San Martín,54077,580,557,485,871
+soja,1969,1969/70,Misiones,54,Montecarlo,54084,1300,1235,1235,1000
+soja,1969,1969/70,Misiones,54,Oberá,54091,2050,1968,1771,900
+soja,1969,1969/70,Misiones,54,San Ignacio,54098,755,722,600,831
+soja,1969,1969/70,Misiones,54,San Javier,54105,340,320,275,859
+soja,1969,1969/70,Misiones,54,San Pedro,54112,35,33,31,939
+soja,1969,1969/70,Salta,66,Anta,66007,60,60,84,1400
+soja,1969,1969/70,Salta,66,Capital,66028,60,60,78,1300
+soja,1969,1969/70,Salta,66,Cerrillos,66035,80,80,104,1300
+soja,1969,1969/70,Salta,66,Metán,66112,70,70,98,1400
+soja,1969,1969/70,Salta,66,Rosario de la Frontera,66140,100,100,136,1360
+soja,1969,1969/70,Santa Fe,82,Caseros,82014,4500,2500,3000,1200
+soja,1969,1969/70,Santa Fe,82,Constitución,82028,700,700,870,1243
+soja,1969,1969/70,Santa Fe,82,General López,82042,200,100,100,1000
+soja,1969,1969/70,Santa Fe,82,General Obligado,82049,100,50,90,1800
+soja,1969,1969/70,Santa Fe,82,Iriondo,82056,200,100,100,1000
+soja,1969,1969/70,Santa Fe,82,Rosario,82084,2500,2300,2540,1104
+soja,1969,1969/70,Santa Fe,82,San Lorenzo,82119,600,500,500,1000
+soja,1969,1969/70,Tucumán,90,Burruyacú,90007,4000,3000,3000,1000
+soja,1969,1969/70,Tucumán,90,Cruz Alta,90014,1500,1345,1500,1115
+soja,1969,1969/70,Tucumán,90,Graneros,90035,50,25,20,800
+soja,1969,1969/70,Tucumán,90,Leales,90056,200,180,180,1000
+soja,1970,1970/71,Buenos Aires,06,Arrecifes,06077,180,178,197,1107
+soja,1970,1970/71,Buenos Aires,06,Capitán Sarmiento,06140,50,50,55,1100
+soja,1970,1970/71,Buenos Aires,06,Colón,06175,100,100,120,1200
+soja,1970,1970/71,Buenos Aires,06,Pergamino,06623,700,695,804,1157
+soja,1970,1970/71,Buenos Aires,06,Rojas,06686,120,120,140,1167
+soja,1970,1970/71,Buenos Aires,06,Salto,06714,250,247,284,1150
+soja,1970,1970/71,Chaco,22,Comandante Fernández,22021,50,50,35,700
+soja,1970,1970/71,Chaco,22,Independencia,22070,100,100,78,780
+soja,1970,1970/71,Chaco,22,Libertador General San Martín,22084,50,50,40,800
+soja,1970,1970/71,Chaco,22,Mayor Luis J. Fontana,22098,30,30,24,800
+soja,1970,1970/71,Chaco,22,O'Higgins,22112,120,120,90,750
+soja,1970,1970/71,Chaco,22,Quitilipi,22133,10,10,8,800
+soja,1970,1970/71,Corrientes,18,Capital,18021,20,20,27,1350
+soja,1970,1970/71,Corrientes,18,Concepción,18028,100,96,144,1500
+soja,1970,1970/71,Corrientes,18,Empedrado,18042,100,95,133,1400
+soja,1970,1970/71,Corrientes,18,Esquina,18049,230,220,319,1450
+soja,1970,1970/71,Corrientes,18,Goya,18070,40,36,49,1361
+soja,1970,1970/71,Corrientes,18,Itatí,18077,35,35,45,1286
+soja,1970,1970/71,Corrientes,18,Ituzaingó,18084,690,660,924,1400
+soja,1970,1970/71,Corrientes,18,Mercedes,18105,30,30,42,1400
+soja,1970,1970/71,Corrientes,18,Monte Caseros,18112,60,52,68,1308
+soja,1970,1970/71,Corrientes,18,Saladas,18126,100,96,125,1302
+soja,1970,1970/71,Corrientes,18,San Roque,18161,5,5,7,1400
+soja,1970,1970/71,Corrientes,18,Santo Tomé,18168,160,155,217,1400
+soja,1970,1970/71,Misiones,54,25 de Mayo,54119,1000,980,1960,2000
+soja,1970,1970/71,Misiones,54,Apóstoles,54007,80,80,120,1500
+soja,1970,1970/71,Misiones,54,Cainguás,54014,3000,2900,4350,1500
+soja,1970,1970/71,Misiones,54,Candelaria,54021,300,300,600,2000
+soja,1970,1970/71,Misiones,54,Concepción,54035,100,100,200,2000
+soja,1970,1970/71,Misiones,54,El dorado,54042,400,400,600,1500
+soja,1970,1970/71,Misiones,54,General Manuel Belgrano,54049,800,800,1200,1500
+soja,1970,1970/71,Misiones,54,Guaraní,54056,120,120,240,2000
+soja,1970,1970/71,Misiones,54,Iguazú,54063,3000,2880,5660,1965
+soja,1970,1970/71,Misiones,54,Leandro N. Alem,54070,800,800,1600,2000
+soja,1970,1970/71,Misiones,54,Libertador General San Martín,54077,600,600,1200,2000
+soja,1970,1970/71,Misiones,54,Montecarlo,54084,1500,1450,2170,1497
+soja,1970,1970/71,Misiones,54,Oberá,54091,3000,3000,6000,2000
+soja,1970,1970/71,Misiones,54,San Ignacio,54098,800,800,1600,2000
+soja,1970,1970/71,Misiones,54,San Javier,54105,500,500,1000,2000
+soja,1970,1970/71,Misiones,54,San Pedro,54112,100,100,200,2000
+soja,1970,1970/71,Salta,66,Anta,66007,70,70,77,1100
+soja,1970,1970/71,Salta,66,Capital,66028,30,30,30,1000
+soja,1970,1970/71,Salta,66,Cerrillos,66035,100,100,110,1100
+soja,1970,1970/71,Salta,66,Metán,66112,70,70,78,1114
+soja,1970,1970/71,Salta,66,Rosario de la Frontera,66140,100,100,130,1300
+soja,1970,1970/71,Santa Fe,82,Belgrano,82007,200,200,370,1850
+soja,1970,1970/71,Santa Fe,82,Caseros,82014,5000,4700,8100,1723
+soja,1970,1970/71,Santa Fe,82,Constitución,82028,1200,1100,1700,1545
+soja,1970,1970/71,Santa Fe,82,Garay,82035,30,30,50,1667
+soja,1970,1970/71,Santa Fe,82,General López,82042,300,300,500,1667
+soja,1970,1970/71,Santa Fe,82,General Obligado,82049,200,200,360,1800
+soja,1970,1970/71,Santa Fe,82,Iriondo,82056,100,100,200,2000
+soja,1970,1970/71,Santa Fe,82,Rosario,82084,2600,2500,4400,1760
+soja,1970,1970/71,Santa Fe,82,San Cristóbal,82091,50,50,80,1600
+soja,1970,1970/71,Santa Fe,82,San Javier,82098,20,20,40,2000
+soja,1970,1970/71,Santa Fe,82,San Lorenzo,82119,800,800,1200,1500
+soja,1970,1970/71,Tucumán,90,Burruyacú,90007,6000,5700,7370,1293
+soja,1970,1970/71,Tucumán,90,Cruz Alta,90014,300,300,390,1300
+soja,1970,1970/71,Tucumán,90,Graneros,90035,600,600,780,1300
+soja,1970,1970/71,Tucumán,90,Leales,90056,500,300,360,1200
+soja,1971,1971/72,Buenos Aires,06,Arrecifes,06077,200,200,260,1300
+soja,1971,1971/72,Buenos Aires,06,Capitán Sarmiento,06140,50,50,62,1240
+soja,1971,1971/72,Buenos Aires,06,Colón,06175,80,80,100,1250
+soja,1971,1971/72,Buenos Aires,06,Pergamino,06623,800,800,1040,1300
+soja,1971,1971/72,Buenos Aires,06,Rojas,06686,100,100,120,1200
+soja,1971,1971/72,Buenos Aires,06,Salto,06714,350,350,438,1251
+soja,1971,1971/72,Chaco,22,25 de Mayo,22168,120,120,65,542
+soja,1971,1971/72,Chaco,22,Bermejo,22014,10,10,8,800
+soja,1971,1971/72,Chaco,22,Comandante Fernández,22021,50,50,30,600
+soja,1971,1971/72,Chaco,22,General Belgrano,22049,20,20,10,500
+soja,1971,1971/72,Chaco,22,General Donovan,22056,20,20,14,700
+soja,1971,1971/72,Chaco,22,Independencia,22070,100,100,50,500
+soja,1971,1971/72,Chaco,22,Libertador General San Martín,22084,230,220,176,800
+soja,1971,1971/72,Chaco,22,Maipú,22091,50,50,30,600
+soja,1971,1971/72,Chaco,22,Mayor Luis J. Fontana,22098,30,30,14,467
+soja,1971,1971/72,Chaco,22,O'Higgins,22112,280,270,153,567
+soja,1971,1971/72,Chaco,22,Quitilipi,22133,30,30,15,500
+soja,1971,1971/72,Chaco,22,San Lorenzo,22147,50,50,25,500
+soja,1971,1971/72,Chaco,22,Sargento Cabral,22154,10,10,10,1000
+soja,1971,1971/72,Córdoba,14,Presidente Roque Sáenz Peña,14084,50,0,0,0
+soja,1971,1971/72,Córdoba,14,Tercero Arriba,14161,750,30,20,667
+soja,1971,1971/72,Corrientes,18,Bella Vista,18007,1,1,1,1000
+soja,1971,1971/72,Corrientes,18,Capital,18021,30,6,5,833
+soja,1971,1971/72,Corrientes,18,Concepción,18028,100,70,63,900
+soja,1971,1971/72,Corrientes,18,Curuzu Cuatia,18035,115,72,57,792
+soja,1971,1971/72,Corrientes,18,Empedrado,18042,130,25,22,880
+soja,1971,1971/72,Corrientes,18,Esquina,18049,700,140,122,871
+soja,1971,1971/72,Corrientes,18,General Alvear,18056,100,30,27,900
+soja,1971,1971/72,Corrientes,18,General Paz,18063,80,50,50,1000
+soja,1971,1971/72,Corrientes,18,Goya,18070,20,6,5,833
+soja,1971,1971/72,Corrientes,18,Itatí,18077,10,7,6,857
+soja,1971,1971/72,Corrientes,18,Ituzaingó,18084,1200,700,710,1014
+soja,1971,1971/72,Corrientes,18,Lavalle,18091,40,15,12,800
+soja,1971,1971/72,Corrientes,18,Mercedes,18105,4,3,2,667
+soja,1971,1971/72,Corrientes,18,Monte Caseros,18112,140,45,40,889
+soja,1971,1971/72,Corrientes,18,Paso de los Libres,18119,30,10,9,900
+soja,1971,1971/72,Corrientes,18,Saladas,18126,90,35,28,800
+soja,1971,1971/72,Corrientes,18,San Martín,18147,100,70,63,900
+soja,1971,1971/72,Corrientes,18,San Miguel,18154,10,3,2,667
+soja,1971,1971/72,Corrientes,18,San Roque,18161,20,7,6,857
+soja,1971,1971/72,Corrientes,18,Santo Tomé,18168,2200,1250,1000,800
+soja,1971,1971/72,Corrientes,18,Sauce,18175,80,15,10,667
+soja,1971,1971/72,Formosa,34,Laishí,34021,9,9,7,778
+soja,1971,1971/72,Formosa,34,Matacos,34028,80,80,64,800
+soja,1971,1971/72,Formosa,34,Patiño,34035,22,22,19,864
+soja,1971,1971/72,Formosa,34,Pilagás,34042,22,22,18,818
+soja,1971,1971/72,Formosa,34,Pilcomayo,34049,17,17,12,706
+soja,1971,1971/72,Misiones,54,25 de Mayo,54119,1800,1500,1800,1200
+soja,1971,1971/72,Misiones,54,Apóstoles,54007,90,60,60,1000
+soja,1971,1971/72,Misiones,54,Cainguás,54014,3500,3200,4160,1300
+soja,1971,1971/72,Misiones,54,Candelaria,54021,350,220,220,1000
+soja,1971,1971/72,Misiones,54,Concepción,54035,200,80,72,900
+soja,1971,1971/72,Misiones,54,El dorado,54042,900,750,1100,1467
+soja,1971,1971/72,Misiones,54,General Manuel Belgrano,54049,1800,1550,2248,1450
+soja,1971,1971/72,Misiones,54,Guaraní,54056,410,350,455,1300
+soja,1971,1971/72,Misiones,54,Iguazú,54063,3800,3400,5100,1500
+soja,1971,1971/72,Misiones,54,Leandro N. Alem,54070,2200,1800,2160,1200
+soja,1971,1971/72,Misiones,54,Libertador General San Martín,54077,1500,1150,1495,1300
+soja,1971,1971/72,Misiones,54,Montecarlo,54084,2300,2000,2900,1450
+soja,1971,1971/72,Misiones,54,Oberá,54091,3800,3200,3840,1200
+soja,1971,1971/72,Misiones,54,San Ignacio,54098,1400,1000,1300,1300
+soja,1971,1971/72,Misiones,54,San Javier,54105,800,500,540,1080
+soja,1971,1971/72,Misiones,54,San Pedro,54112,350,300,450,1500
+soja,1971,1971/72,Salta,66,Anta,66007,30,30,30,1000
+soja,1971,1971/72,Salta,66,Capital,66028,10,10,12,1200
+soja,1971,1971/72,Salta,66,Cerrillos,66035,100,70,70,1000
+soja,1971,1971/72,Salta,66,Metán,66112,30,30,36,1200
+soja,1971,1971/72,Salta,66,Rosario de la Frontera,66140,200,150,152,1013
+soja,1971,1971/72,Santa Fe,82,Belgrano,82007,1000,850,1020,1200
+soja,1971,1971/72,Santa Fe,82,Caseros,82014,15000,14500,18125,1250
+soja,1971,1971/72,Santa Fe,82,Constitución,82028,3600,3400,4114,1210
+soja,1971,1971/72,Santa Fe,82,General López,82042,1000,1000,1100,1100
+soja,1971,1971/72,Santa Fe,82,General Obligado,82049,400,200,200,1000
+soja,1971,1971/72,Santa Fe,82,Iriondo,82056,1000,1000,1200,1200
+soja,1971,1971/72,Santa Fe,82,La Capital,82063,100,100,80,800
+soja,1971,1971/72,Santa Fe,82,Las Colonias,82070,200,200,180,900
+soja,1971,1971/72,Santa Fe,82,Rosario,82084,10500,10000,10100,1010
+soja,1971,1971/72,Santa Fe,82,San Cristóbal,82091,200,100,91,910
+soja,1971,1971/72,Santa Fe,82,San Jerónimo,82105,300,250,300,1200
+soja,1971,1971/72,Santa Fe,82,San Lorenzo,82119,3200,3000,3450,1150
+soja,1971,1971/72,Santa Fe,82,San Martín,82126,500,400,340,850
+soja,1971,1971/72,Tucumán,90,Burruyacú,90007,7000,5500,3866,703
+soja,1971,1971/72,Tucumán,90,Cruz Alta,90014,300,200,160,800
+soja,1971,1971/72,Tucumán,90,Graneros,90035,800,450,324,720
+soja,1971,1971/72,Tucumán,90,Leales,90056,400,200,150,750
+soja,1972,1972/73,Buenos Aires,06,Arrecifes,06077,400,395,434,1099
+soja,1972,1972/73,Buenos Aires,06,Capitán Sarmiento,06140,500,492,542,1102
+soja,1972,1972/73,Buenos Aires,06,Carmen de Areco,06161,100,98,117,1194
+soja,1972,1972/73,Buenos Aires,06,Chacabuco,06210,450,450,630,1400
+soja,1972,1972/73,Buenos Aires,06,Colón,06175,150,150,210,1400
+soja,1972,1972/73,Buenos Aires,06,General Alvarado,06280,105,105,189,1800
+soja,1972,1972/73,Buenos Aires,06,General Arenales,06294,30,30,36,1200
+soja,1972,1972/73,Buenos Aires,06,Junín,06413,100,100,130,1300
+soja,1972,1972/73,Buenos Aires,06,Pergamino,06623,2100,2090,2508,1200
+soja,1972,1972/73,Buenos Aires,06,Rojas,06686,300,300,420,1400
+soja,1972,1972/73,Buenos Aires,06,Salto,06714,700,694,798,1150
+soja,1972,1972/73,Buenos Aires,06,San Antonio de Areco,06735,100,98,108,1102
+soja,1972,1972/73,Buenos Aires,06,San Nicolás,06763,50,50,55,1100
+soja,1972,1972/73,Buenos Aires,06,San Pedro,06770,100,98,108,1102
+soja,1972,1972/73,Chaco,22,25 de Mayo,22168,80,60,42,700
+soja,1972,1972/73,Chaco,22,9 de Julio,22105,20,10,7,700
+soja,1972,1972/73,Chaco,22,Bermejo,22014,50,35,45,1286
+soja,1972,1972/73,Chaco,22,Chacabuco,22028,120,105,95,905
+soja,1972,1972/73,Chaco,22,Comandante Fernández,22021,200,150,105,700
+soja,1972,1972/73,Chaco,22,General Belgrano,22049,150,110,88,800
+soja,1972,1972/73,Chaco,22,General Donovan,22056,30,20,17,850
+soja,1972,1972/73,Chaco,22,General Güemes,22063,100,90,72,800
+soja,1972,1972/73,Chaco,22,Independencia,22070,100,70,56,800
+soja,1972,1972/73,Chaco,22,Libertad,22077,20,10,8,800
+soja,1972,1972/73,Chaco,22,Libertador General San Martín,22084,650,600,780,1300
+soja,1972,1972/73,Chaco,22,Maipú,22091,80,60,48,800
+soja,1972,1972/73,Chaco,22,Mayor Luis J. Fontana,22098,30,5,2,400
+soja,1972,1972/73,Chaco,22,O'Higgins,22112,150,50,30,600
+soja,1972,1972/73,Chaco,22,Quitilipi,22133,100,70,49,700
+soja,1972,1972/73,Chaco,22,San Lorenzo,22147,50,15,9,600
+soja,1972,1972/73,Chaco,22,Sargento Cabral,22154,100,80,80,1000
+soja,1972,1972/73,Córdoba,14,Calamuchita,14007,100,95,130,1368
+soja,1972,1972/73,Córdoba,14,Juárez Celman,14056,70,68,90,1324
+soja,1972,1972/73,Córdoba,14,Marcos Juárez,14063,50,50,67,1340
+soja,1972,1972/73,Córdoba,14,Río Cuarto,14098,65,63,85,1349
+soja,1972,1972/73,Córdoba,14,Santa María,14147,50,47,60,1277
+soja,1972,1972/73,Córdoba,14,Tercero Arriba,14161,1665,1577,2205,1398
+soja,1972,1972/73,Corrientes,18,Bella Vista,18007,20,20,24,1200
+soja,1972,1972/73,Corrientes,18,Capital,18021,80,70,77,1100
+soja,1972,1972/73,Corrientes,18,Concepción,18028,140,115,138,1200
+soja,1972,1972/73,Corrientes,18,Curuzu Cuatia,18035,150,140,168,1200
+soja,1972,1972/73,Corrientes,18,Empedrado,18042,80,60,60,1000
+soja,1972,1972/73,Corrientes,18,Esquina,18049,250,210,273,1300
+soja,1972,1972/73,Corrientes,18,General Alvear,18056,70,60,72,1200
+soja,1972,1972/73,Corrientes,18,General Paz,18063,130,120,132,1100
+soja,1972,1972/73,Corrientes,18,Itatí,18077,60,55,66,1200
+soja,1972,1972/73,Corrientes,18,Ituzaingó,18084,1200,900,1350,1500
+soja,1972,1972/73,Corrientes,18,Lavalle,18091,40,35,42,1200
+soja,1972,1972/73,Corrientes,18,Mercedes,18105,10,10,11,1100
+soja,1972,1972/73,Corrientes,18,Monte Caseros,18112,130,115,149,1296
+soja,1972,1972/73,Corrientes,18,Paso de los Libres,18119,60,55,71,1291
+soja,1972,1972/73,Corrientes,18,Saladas,18126,140,120,144,1200
+soja,1972,1972/73,Corrientes,18,San Martín,18147,150,130,169,1300
+soja,1972,1972/73,Corrientes,18,San Miguel,18154,30,25,27,1080
+soja,1972,1972/73,Corrientes,18,San Roque,18161,40,30,33,1100
+soja,1972,1972/73,Corrientes,18,Santo Tomé,18168,3600,3200,4800,1500
+soja,1972,1972/73,Corrientes,18,Sauce,18175,45,40,44,1100
+soja,1972,1972/73,Formosa,34,Laishí,34021,50,50,60,1200
+soja,1972,1972/73,Formosa,34,Patiño,34035,760,760,836,1100
+soja,1972,1972/73,Formosa,34,Pilagás,34042,180,180,216,1200
+soja,1972,1972/73,Formosa,34,Pilcomayo,34049,180,180,162,900
+soja,1972,1972/73,Formosa,34,Pirané,34056,100,100,100,1000
+soja,1972,1972/73,Jujuy,38,El Carmen,38014,120,80,80,1000
+soja,1972,1972/73,Jujuy,38,Ledesma,38035,65,65,78,1200
+soja,1972,1972/73,Misiones,54,25 de Mayo,54119,2500,2300,2760,1200
+soja,1972,1972/73,Misiones,54,Apóstoles,54007,130,100,90,900
+soja,1972,1972/73,Misiones,54,Cainguás,54014,5000,4500,5400,1200
+soja,1972,1972/73,Misiones,54,Candelaria,54021,500,400,400,1000
+soja,1972,1972/73,Misiones,54,Concepción,54035,300,250,225,900
+soja,1972,1972/73,Misiones,54,El dorado,54042,1500,1200,1680,1400
+soja,1972,1972/73,Misiones,54,General Manuel Belgrano,54049,2800,2500,3250,1300
+soja,1972,1972/73,Misiones,54,Guaraní,54056,600,500,650,1300
+soja,1972,1972/73,Misiones,54,Iguazú,54063,5000,4700,6110,1300
+soja,1972,1972/73,Misiones,54,Leandro N. Alem,54070,3000,2700,3240,1200
+soja,1972,1972/73,Misiones,54,Libertador General San Martín,54077,2500,2250,2700,1200
+soja,1972,1972/73,Misiones,54,Montecarlo,54084,3500,3150,4410,1400
+soja,1972,1972/73,Misiones,54,Oberá,54091,5000,4600,5520,1200
+soja,1972,1972/73,Misiones,54,San Ignacio,54098,2100,1900,2090,1100
+soja,1972,1972/73,Misiones,54,San Javier,54105,1500,1200,1200,1000
+soja,1972,1972/73,Misiones,54,San Pedro,54112,600,550,770,1400
+soja,1972,1972/73,Salta,66,Anta,66007,20,20,24,1200
+soja,1972,1972/73,Salta,66,Cerrillos,66035,15,15,18,1200
+soja,1972,1972/73,Salta,66,Chicoana,66042,100,100,120,1200
+soja,1972,1972/73,Salta,66,General José de San Martín,66056,100,100,120,1200
+soja,1972,1972/73,Salta,66,La Candelaria,66084,150,150,165,1100
+soja,1972,1972/73,Salta,66,Metán,66112,250,190,209,1100
+soja,1972,1972/73,Salta,66,Rosario de la Frontera,66140,100,60,66,1100
+soja,1972,1972/73,Santa Fe,82,9 de Julio,82077,200,150,220,1467
+soja,1972,1972/73,Santa Fe,82,Belgrano,82007,1800,1700,3300,1941
+soja,1972,1972/73,Santa Fe,82,Caseros,82014,40000,38000,76000,2000
+soja,1972,1972/73,Santa Fe,82,Castellanos,82021,100,80,130,1625
+soja,1972,1972/73,Santa Fe,82,Constitución,82028,13500,12500,26000,2080
+soja,1972,1972/73,Santa Fe,82,Garay,82035,100,50,100,2000
+soja,1972,1972/73,Santa Fe,82,General López,82042,7000,6000,12000,2000
+soja,1972,1972/73,Santa Fe,82,General Obligado,82049,400,300,300,1000
+soja,1972,1972/73,Santa Fe,82,Iriondo,82056,4250,3920,8740,2230
+soja,1972,1972/73,Santa Fe,82,La Capital,82063,100,50,100,2000
+soja,1972,1972/73,Santa Fe,82,Las Colonias,82070,500,400,960,2400
+soja,1972,1972/73,Santa Fe,82,Rosario,82084,18500,17500,38000,2171
+soja,1972,1972/73,Santa Fe,82,San Cristóbal,82091,200,150,250,1667
+soja,1972,1972/73,Santa Fe,82,San Javier,82098,250,250,300,1200
+soja,1972,1972/73,Santa Fe,82,San Jerónimo,82105,500,450,860,1911
+soja,1972,1972/73,Santa Fe,82,San Justo,82112,100,50,100,2000
+soja,1972,1972/73,Santa Fe,82,San Lorenzo,82119,11500,10500,21000,2000
+soja,1972,1972/73,Santa Fe,82,San Martín,82126,900,850,1540,1812
+soja,1972,1972/73,Santa Fe,82,Vera,82133,100,100,100,1000
+soja,1972,1972/73,Tucumán,90,Burruyacú,90007,12000,12000,16800,1400
+soja,1972,1972/73,Tucumán,90,Cruz Alta,90014,2000,2000,2800,1400
+soja,1972,1972/73,Tucumán,90,Graneros,90035,500,500,600,1200
+soja,1972,1972/73,Tucumán,90,Leales,90056,500,500,650,1300
+soja,1973,1973/74,Buenos Aires,06,9 de Julio,06588,400,400,680,1700
+soja,1973,1973/74,Buenos Aires,06,Adolfo Alsina,06007,200,172,222,1291
+soja,1973,1973/74,Buenos Aires,06,Adolfo Gonzales Chaves,06014,10,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Arrecifes,06077,2500,2375,4330,1823
+soja,1973,1973/74,Buenos Aires,06,Ayacucho,06042,5,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Azul,06049,111,100,97,970
+soja,1973,1973/74,Buenos Aires,06,Balcarce,06063,20,19,32,1684
+soja,1973,1973/74,Buenos Aires,06,Baradero,06070,2000,1900,3390,1784
+soja,1973,1973/74,Buenos Aires,06,Benito Juárez,06084,110,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Bolívar,06105,180,153,215,1405
+soja,1973,1973/74,Buenos Aires,06,Brandsen,06119,20,10,10,1000
+soja,1973,1973/74,Buenos Aires,06,Campana,06126,600,570,685,1202
+soja,1973,1973/74,Buenos Aires,06,Capitán Sarmiento,06140,1500,1425,2565,1800
+soja,1973,1973/74,Buenos Aires,06,Carlos Casares,06147,200,104,136,1308
+soja,1973,1973/74,Buenos Aires,06,Carlos Tejedor,06154,700,316,348,1101
+soja,1973,1973/74,Buenos Aires,06,Carmen de Areco,06161,1000,950,1710,1800
+soja,1973,1973/74,Buenos Aires,06,Chacabuco,06210,2000,1900,3600,1895
+soja,1973,1973/74,Buenos Aires,06,Chivilcoy,06224,1000,950,1250,1316
+soja,1973,1973/74,Buenos Aires,06,Colón,06175,2000,1920,2445,1273
+soja,1973,1973/74,Buenos Aires,06,Coronel Dorrego,06189,15,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Coronel Pringles,06196,10,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Coronel Suárez,06203,120,106,147,1387
+soja,1973,1973/74,Buenos Aires,06,Daireaux,06231,100,86,127,1477
+soja,1973,1973/74,Buenos Aires,06,Exaltación de la Cruz,06266,500,465,730,1570
+soja,1973,1973/74,Buenos Aires,06,General Alvarado,06280,120,115,207,1800
+soja,1973,1973/74,Buenos Aires,06,General Arenales,06294,2000,1920,2325,1211
+soja,1973,1973/74,Buenos Aires,06,General La Madrid,06322,80,72,100,1389
+soja,1973,1973/74,Buenos Aires,06,General Paz,06343,70,0,0,0
+soja,1973,1973/74,Buenos Aires,06,General Pinto,06351,900,865,1100,1272
+soja,1973,1973/74,Buenos Aires,06,General Pueyrredón,06357,12,11,20,1818
+soja,1973,1973/74,Buenos Aires,06,General Viamonte,06385,500,475,530,1116
+soja,1973,1973/74,Buenos Aires,06,General Villegas,06392,1000,960,1100,1146
+soja,1973,1973/74,Buenos Aires,06,Guaminí,06399,200,172,222,1291
+soja,1973,1973/74,Buenos Aires,06,Hipólito Yrigoyen,06406,750,414,577,1394
+soja,1973,1973/74,Buenos Aires,06,Junín,06413,1200,1150,1482,1289
+soja,1973,1973/74,Buenos Aires,06,Laprida,06448,10,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Leandro N. Alem,06462,1000,960,1300,1354
+soja,1973,1973/74,Buenos Aires,06,Lincoln,06469,2000,1850,2310,1249
+soja,1973,1973/74,Buenos Aires,06,Lobería,06476,150,145,251,1731
+soja,1973,1973/74,Buenos Aires,06,Lobos,06483,200,50,50,1000
+soja,1973,1973/74,Buenos Aires,06,Mercedes,06532,500,460,855,1859
+soja,1973,1973/74,Buenos Aires,06,Monte,06547,130,30,30,1000
+soja,1973,1973/74,Buenos Aires,06,Navarro,06574,150,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Necochea,06581,20,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Olavarría,06595,70,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Pehuajó,06609,1050,714,998,1398
+soja,1973,1973/74,Buenos Aires,06,Pellegrini,06616,550,485,665,1371
+soja,1973,1973/74,Buenos Aires,06,Pergamino,06623,10000,9500,17000,1789
+soja,1973,1973/74,Buenos Aires,06,Puán,06651,135,130,103,792
+soja,1973,1973/74,Buenos Aires,06,Ramallo,06665,2500,2375,4512,1900
+soja,1973,1973/74,Buenos Aires,06,Rauch,06672,60,10,7,700
+soja,1973,1973/74,Buenos Aires,06,Rivadavia,06679,130,100,174,1740
+soja,1973,1973/74,Buenos Aires,06,Rojas,06686,2500,2390,3420,1431
+soja,1973,1973/74,Buenos Aires,06,Salliqueló,06721,200,174,242,1391
+soja,1973,1973/74,Buenos Aires,06,Salto,06714,7000,6690,12221,1827
+soja,1973,1973/74,Buenos Aires,06,San Andrés de Giles,06728,700,665,930,1399
+soja,1973,1973/74,Buenos Aires,06,San Antonio de Areco,06735,1000,950,1805,1900
+soja,1973,1973/74,Buenos Aires,06,San Cayetano,06742,15,0,0,0
+soja,1973,1973/74,Buenos Aires,06,San Nicolás,06763,1800,1710,3078,1800
+soja,1973,1973/74,Buenos Aires,06,San Pedro,06770,1500,1425,2607,1829
+soja,1973,1973/74,Buenos Aires,06,Suipacha,06784,500,460,720,1565
+soja,1973,1973/74,Buenos Aires,06,Tandil,06791,40,36,36,1000
+soja,1973,1973/74,Buenos Aires,06,Trenque Lauquen,06826,200,62,87,1403
+soja,1973,1973/74,Buenos Aires,06,Tres Arroyos,06833,120,0,0,0
+soja,1973,1973/74,Buenos Aires,06,Villarino,06875,37,34,27,794
+soja,1973,1973/74,Buenos Aires,06,Zárate,06882,700,700,1190,1700
+soja,1973,1973/74,Chaco,22,25 de Mayo,22168,90,90,130,1444
+soja,1973,1973/74,Chaco,22,9 de Julio,22105,20,10,10,1000
+soja,1973,1973/74,Chaco,22,Bermejo,22014,100,100,150,1500
+soja,1973,1973/74,Chaco,22,Chacabuco,22028,200,100,130,1300
+soja,1973,1973/74,Chaco,22,Comandante Fernández,22021,200,200,300,1500
+soja,1973,1973/74,Chaco,22,General Belgrano,22049,100,50,60,1200
+soja,1973,1973/74,Chaco,22,General Donovan,22056,15,15,20,1333
+soja,1973,1973/74,Chaco,22,General Güemes,22063,50,50,75,1500
+soja,1973,1973/74,Chaco,22,Independencia,22070,200,200,250,1250
+soja,1973,1973/74,Chaco,22,Libertad,22077,15,15,20,1333
+soja,1973,1973/74,Chaco,22,Libertador General San Martín,22084,1200,1050,1500,1429
+soja,1973,1973/74,Chaco,22,Maipú,22091,60,60,90,1500
+soja,1973,1973/74,Chaco,22,Mayor Luis J. Fontana,22098,30,0,0,0
+soja,1973,1973/74,Chaco,22,O'Higgins,22112,40,10,10,1000
+soja,1973,1973/74,Chaco,22,Presidencia de la Plaza,22119,50,50,65,1300
+soja,1973,1973/74,Chaco,22,Quitilipi,22133,100,100,150,1500
+soja,1973,1973/74,Chaco,22,San Lorenzo,22147,20,0,0,0
+soja,1973,1973/74,Chaco,22,Sargento Cabral,22154,60,60,90,1500
+soja,1973,1973/74,Córdoba,14,Calamuchita,14007,200,200,240,1200
+soja,1973,1973/74,Córdoba,14,Capital,14014,50,50,60,1200
+soja,1973,1973/74,Córdoba,14,Colón,14021,150,150,190,1267
+soja,1973,1973/74,Córdoba,14,General Roca,14035,300,300,360,1200
+soja,1973,1973/74,Córdoba,14,General San Martín,14042,1000,1000,1200,1200
+soja,1973,1973/74,Córdoba,14,Juárez Celman,14056,3000,3000,3600,1200
+soja,1973,1973/74,Córdoba,14,Marcos Juárez,14063,3000,3000,3600,1200
+soja,1973,1973/74,Córdoba,14,Presidente Roque Sáenz Peña,14084,4500,4500,5400,1200
+soja,1973,1973/74,Córdoba,14,Río Cuarto,14098,3500,3500,4200,1200
+soja,1973,1973/74,Córdoba,14,Río Seco,14112,200,200,200,1000
+soja,1973,1973/74,Córdoba,14,Río Segundo,14119,2500,2500,3000,1200
+soja,1973,1973/74,Córdoba,14,Santa María,14147,1000,1000,1200,1200
+soja,1973,1973/74,Córdoba,14,Tercero Arriba,14161,10200,10200,12750,1250
+soja,1973,1973/74,Córdoba,14,Unión,14182,3300,3300,4000,1212
+soja,1973,1973/74,Corrientes,18,Bella Vista,18007,20,13,21,1615
+soja,1973,1973/74,Corrientes,18,Capital,18021,40,34,53,1559
+soja,1973,1973/74,Corrientes,18,Concepción,18028,80,68,112,1647
+soja,1973,1973/74,Corrientes,18,Curuzu Cuatia,18035,250,190,304,1600
+soja,1973,1973/74,Corrientes,18,Empedrado,18042,100,88,150,1705
+soja,1973,1973/74,Corrientes,18,Esquina,18049,400,350,595,1700
+soja,1973,1973/74,Corrientes,18,General Alvear,18056,150,134,221,1649
+soja,1973,1973/74,Corrientes,18,General Paz,18063,50,44,70,1591
+soja,1973,1973/74,Corrientes,18,Goya,18070,60,0,0,0
+soja,1973,1973/74,Corrientes,18,Itatí,18077,100,90,148,1644
+soja,1973,1973/74,Corrientes,18,Ituzaingó,18084,2400,2160,3655,1692
+soja,1973,1973/74,Corrientes,18,Lavalle,18091,20,5,7,1400
+soja,1973,1973/74,Corrientes,18,Monte Caseros,18112,200,175,289,1651
+soja,1973,1973/74,Corrientes,18,Paso de los Libres,18119,100,88,145,1648
+soja,1973,1973/74,Corrientes,18,Saladas,18126,200,170,289,1700
+soja,1973,1973/74,Corrientes,18,San Martín,18147,150,130,221,1700
+soja,1973,1973/74,Corrientes,18,San Miguel,18154,50,43,69,1605
+soja,1973,1973/74,Corrientes,18,San Roque,18161,50,42,67,1595
+soja,1973,1973/74,Corrientes,18,Santo Tomé,18168,11600,11100,18510,1668
+soja,1973,1973/74,Corrientes,18,Sauce,18175,50,46,74,1609
+soja,1973,1973/74,Entre Ríos,30,Colón,30008,470,310,510,1645
+soja,1973,1973/74,Entre Ríos,30,Concordia,30015,920,700,1190,1700
+soja,1973,1973/74,Entre Ríos,30,Diamante,30021,25,10,15,1500
+soja,1973,1973/74,Entre Ríos,30,Federación,30028,180,170,221,1300
+soja,1973,1973/74,Entre Ríos,30,Gualeguay,30049,150,130,221,1700
+soja,1973,1973/74,Entre Ríos,30,Gualeguaychú,30056,125,115,207,1800
+soja,1973,1973/74,Entre Ríos,30,La Paz,30070,650,505,750,1485
+soja,1973,1973/74,Entre Ríos,30,Nogoyá,30077,100,100,130,1300
+soja,1973,1973/74,Entre Ríos,30,Paraná,30084,120,50,85,1700
+soja,1973,1973/74,Entre Ríos,30,Uruguay,30098,395,350,517,1477
+soja,1973,1973/74,Entre Ríos,30,Victoria,30105,115,0,0,0
+soja,1973,1973/74,Entre Ríos,30,Villaguay,30113,950,900,1154,1282
+soja,1973,1973/74,Formosa,34,Laishí,34021,180,180,216,1200
+soja,1973,1973/74,Formosa,34,Patiño,34035,480,480,436,908
+soja,1973,1973/74,Formosa,34,Pilcomayo,34049,130,130,78,600
+soja,1973,1973/74,Formosa,34,Pirané,34056,150,150,150,1000
+soja,1973,1973/74,Jujuy,38,El Carmen,38014,150,150,155,1033
+soja,1973,1973/74,Jujuy,38,Ledesma,38035,100,100,125,1250
+soja,1973,1973/74,Misiones,54,25 de Mayo,54119,3000,2500,4236,1694
+soja,1973,1973/74,Misiones,54,Apóstoles,54007,150,130,204,1569
+soja,1973,1973/74,Misiones,54,Cainguás,54014,6000,4800,8130,1694
+soja,1973,1973/74,Misiones,54,Candelaria,54021,600,500,800,1600
+soja,1973,1973/74,Misiones,54,Concepción,54035,400,320,512,1600
+soja,1973,1973/74,Misiones,54,El dorado,54042,1800,1500,2625,1750
+soja,1973,1973/74,Misiones,54,General Manuel Belgrano,54049,3000,2200,3520,1600
+soja,1973,1973/74,Misiones,54,Guaraní,54056,700,600,1020,1700
+soja,1973,1973/74,Misiones,54,Iguazú,54063,6000,5000,8480,1696
+soja,1973,1973/74,Misiones,54,Leandro N. Alem,54070,3500,3000,5160,1720
+soja,1973,1973/74,Misiones,54,Libertador General San Martín,54077,3000,2400,3820,1592
+soja,1973,1973/74,Misiones,54,Montecarlo,54084,4000,3200,5420,1694
+soja,1973,1973/74,Misiones,54,Oberá,54091,5950,4950,8513,1720
+soja,1973,1973/74,Misiones,54,San Ignacio,54098,3000,2700,4315,1598
+soja,1973,1973/74,Misiones,54,San Javier,54105,2000,1500,2390,1593
+soja,1973,1973/74,Misiones,54,San Pedro,54112,900,800,1555,1944
+soja,1973,1973/74,Salta,66,Anta,66007,100,50,60,1200
+soja,1973,1973/74,Salta,66,Capital,66028,30,30,30,1000
+soja,1973,1973/74,Salta,66,Cerrillos,66035,150,150,150,1000
+soja,1973,1973/74,Salta,66,General Güemes,66049,1500,1500,1800,1200
+soja,1973,1973/74,Salta,66,La Candelaria,66084,150,150,170,1133
+soja,1973,1973/74,Salta,66,Metán,66112,300,300,300,1000
+soja,1973,1973/74,Salta,66,Orán,66126,150,150,180,1200
+soja,1973,1973/74,Salta,66,Rosario de la Frontera,66140,300,300,360,1200
+soja,1973,1973/74,San Luis,74,Coronel Pringles,74021,400,400,480,1200
+soja,1973,1973/74,San Luis,74,General Pedernera,74035,1000,800,1040,1300
+soja,1973,1973/74,San Luis,74,Juan Martín de Pueyrredón,74056,100,100,120,1200
+soja,1973,1973/74,Santa Fe,82,9 de Julio,82077,400,100,90,900
+soja,1973,1973/74,Santa Fe,82,Belgrano,82007,5600,5300,10100,1906
+soja,1973,1973/74,Santa Fe,82,Caseros,82014,62000,58500,76000,1299
+soja,1973,1973/74,Santa Fe,82,Castellanos,82021,600,200,220,1100
+soja,1973,1973/74,Santa Fe,82,Constitución,82028,22000,21000,30000,1429
+soja,1973,1973/74,Santa Fe,82,Garay,82035,150,100,110,1100
+soja,1973,1973/74,Santa Fe,82,General López,82042,25000,22500,25000,1111
+soja,1973,1973/74,Santa Fe,82,General Obligado,82049,800,800,1200,1500
+soja,1973,1973/74,Santa Fe,82,Iriondo,82056,12550,11000,13200,1200
+soja,1973,1973/74,Santa Fe,82,La Capital,82063,200,20,25,1250
+soja,1973,1973/74,Santa Fe,82,Las Colonias,82070,2500,1200,1900,1583
+soja,1973,1973/74,Santa Fe,82,Rosario,82084,28000,27000,37875,1403
+soja,1973,1973/74,Santa Fe,82,San Cristóbal,82091,400,100,100,1000
+soja,1973,1973/74,Santa Fe,82,San Javier,82098,300,300,360,1200
+soja,1973,1973/74,Santa Fe,82,San Jerónimo,82105,2400,1800,1450,806
+soja,1973,1973/74,Santa Fe,82,San Justo,82112,1000,300,420,1400
+soja,1973,1973/74,Santa Fe,82,San Lorenzo,82119,21000,19500,23400,1200
+soja,1973,1973/74,Santa Fe,82,San Martín,82126,5000,3800,3450,908
+soja,1973,1973/74,Santa Fe,82,Vera,82133,100,100,100,1000
+soja,1973,1973/74,Santiago del Estero,86,Capital,86049,20,0,0,0
+soja,1973,1973/74,Santiago del Estero,86,Jiménez,86091,20,20,18,900
+soja,1973,1973/74,Santiago del Estero,86,Pellegrini,86133,210,60,54,900
+soja,1973,1973/74,Santiago del Estero,86,Rivadavia,86154,300,160,130,813
+soja,1973,1973/74,Santiago del Estero,86,Robles,86161,250,100,78,780
+soja,1973,1973/74,Tucumán,90,Burruyacú,90007,15218,15218,30000,1971
+soja,1973,1973/74,Tucumán,90,Cruz Alta,90014,5750,5750,11246,1956
+soja,1973,1973/74,Tucumán,90,Graneros,90035,1263,1263,2273,1800
+soja,1973,1973/74,Tucumán,90,Leales,90056,1346,1346,2422,1799
+soja,1973,1973/74,Tucumán,90,Río Chico,90077,33,33,59,1788
+soja,1974,1974/75,Buenos Aires,06,25 de Mayo,06854,600,400,600,1500
+soja,1974,1974/75,Buenos Aires,06,9 de Julio,06588,300,300,450,1500
+soja,1974,1974/75,Buenos Aires,06,Ayacucho,06042,3,0,0,0
+soja,1974,1974/75,Buenos Aires,06,Azul,06049,53,0,0,0
+soja,1974,1974/75,Buenos Aires,06,Balcarce,06063,15,15,25,1667
+soja,1974,1974/75,Buenos Aires,06,Baradero,06070,1200,1195,1314,1100
+soja,1974,1974/75,Buenos Aires,06,Benito Juárez,06084,10,0,0,0
+soja,1974,1974/75,Buenos Aires,06,Bragado,06112,100,100,140,1400
+soja,1974,1974/75,Buenos Aires,06,Campana,06126,300,300,390,1300
+soja,1974,1974/75,Buenos Aires,06,Capitán Sarmiento,06140,900,895,1074,1200
+soja,1974,1974/75,Buenos Aires,06,Carlos Casares,06147,55,30,45,1500
+soja,1974,1974/75,Buenos Aires,06,Carlos Tejedor,06154,120,30,30,1000
+soja,1974,1974/75,Buenos Aires,06,Carmen de Areco,06161,500,497,596,1199
+soja,1974,1974/75,Buenos Aires,06,Chacabuco,06210,1500,1492,1790,1200
+soja,1974,1974/75,Buenos Aires,06,Chivilcoy,06224,500,500,650,1300
+soja,1974,1974/75,Buenos Aires,06,Colón,06175,700,700,1050,1500
+soja,1974,1974/75,Buenos Aires,06,Exaltación de la Cruz,06266,300,300,360,1200
+soja,1974,1974/75,Buenos Aires,06,General Alvarado,06280,130,130,234,1800
+soja,1974,1974/75,Buenos Aires,06,General Arenales,06294,800,800,1200,1500
+soja,1974,1974/75,Buenos Aires,06,General Pinto,06351,600,600,810,1350
+soja,1974,1974/75,Buenos Aires,06,General Viamonte,06385,100,100,140,1400
+soja,1974,1974/75,Buenos Aires,06,General Villegas,06392,200,200,260,1300
+soja,1974,1974/75,Buenos Aires,06,Hipólito Yrigoyen,06406,200,100,200,2000
+soja,1974,1974/75,Buenos Aires,06,Junín,06413,1000,1000,1500,1500
+soja,1974,1974/75,Buenos Aires,06,Leandro N. Alem,06462,500,500,600,1200
+soja,1974,1974/75,Buenos Aires,06,Lincoln,06469,200,200,240,1200
+soja,1974,1974/75,Buenos Aires,06,Lobería,06476,50,50,80,1600
+soja,1974,1974/75,Buenos Aires,06,Mercedes,06532,500,500,500,1000
+soja,1974,1974/75,Buenos Aires,06,Olavarría,06595,25,0,0,0
+soja,1974,1974/75,Buenos Aires,06,Pehuajó,06609,200,50,70,1400
+soja,1974,1974/75,Buenos Aires,06,Pellegrini,06616,30,30,36,1200
+soja,1974,1974/75,Buenos Aires,06,Pergamino,06623,6000,5966,7776,1303
+soja,1974,1974/75,Buenos Aires,06,Ramallo,06665,2000,1990,2189,1100
+soja,1974,1974/75,Buenos Aires,06,Rauch,06672,4,0,0,0
+soja,1974,1974/75,Buenos Aires,06,Rivadavia,06679,60,40,72,1800
+soja,1974,1974/75,Buenos Aires,06,Rojas,06686,1000,1000,1600,1600
+soja,1974,1974/75,Buenos Aires,06,Saladillo,06707,150,100,150,1500
+soja,1974,1974/75,Buenos Aires,06,Salto,06714,4000,3985,4782,1200
+soja,1974,1974/75,Buenos Aires,06,San Andrés de Giles,06728,300,300,360,1200
+soja,1974,1974/75,Buenos Aires,06,San Antonio de Areco,06735,690,687,767,1116
+soja,1974,1974/75,Buenos Aires,06,San Fernando,06749,1500,1493,1642,1100
+soja,1974,1974/75,Buenos Aires,06,San Nicolás,06763,1200,1200,1314,1095
+soja,1974,1974/75,Buenos Aires,06,San Pedro,06770,1000,995,1094,1100
+soja,1974,1974/75,Buenos Aires,06,Suipacha,06784,300,300,360,1200
+soja,1974,1974/75,Buenos Aires,06,Tandil,06791,25,0,0,0
+soja,1974,1974/75,Buenos Aires,06,Trenque Lauquen,06826,80,30,30,1000
+soja,1974,1974/75,Buenos Aires,06,Zárate,06882,400,400,480,1200
+soja,1974,1974/75,Chaco,22,12 de Octubre,22036,50,50,50,1000
+soja,1974,1974/75,Chaco,22,25 de Mayo,22168,60,60,55,917
+soja,1974,1974/75,Chaco,22,Bermejo,22014,100,70,100,1429
+soja,1974,1974/75,Chaco,22,Chacabuco,22028,100,100,120,1200
+soja,1974,1974/75,Chaco,22,Comandante Fernández,22021,400,400,500,1250
+soja,1974,1974/75,Chaco,22,General Belgrano,22049,100,100,110,1100
+soja,1974,1974/75,Chaco,22,General Donovan,22056,15,15,18,1200
+soja,1974,1974/75,Chaco,22,Independencia,22070,400,400,440,1100
+soja,1974,1974/75,Chaco,22,Libertador General San Martín,22084,805,605,920,1521
+soja,1974,1974/75,Chaco,22,Maipú,22091,50,50,45,900
+soja,1974,1974/75,Chaco,22,Mayor Luis J. Fontana,22098,40,40,35,875
+soja,1974,1974/75,Chaco,22,O'Higgins,22112,30,20,15,750
+soja,1974,1974/75,Chaco,22,Presidencia de la Plaza,22119,40,40,30,750
+soja,1974,1974/75,Chaco,22,Quitilipi,22133,80,80,80,1000
+soja,1974,1974/75,Chaco,22,San Lorenzo,22147,20,10,7,700
+soja,1974,1974/75,Chaco,22,Sargento Cabral,22154,50,50,75,1500
+soja,1974,1974/75,Córdoba,14,Calamuchita,14007,200,200,240,1200
+soja,1974,1974/75,Córdoba,14,Capital,14014,50,50,60,1200
+soja,1974,1974/75,Córdoba,14,Colón,14021,150,140,170,1214
+soja,1974,1974/75,Córdoba,14,General Roca,14035,450,450,585,1300
+soja,1974,1974/75,Córdoba,14,General San Martín,14042,1300,1300,1690,1300
+soja,1974,1974/75,Córdoba,14,Juárez Celman,14056,3050,3050,3965,1300
+soja,1974,1974/75,Córdoba,14,Marcos Juárez,14063,5200,5200,7280,1400
+soja,1974,1974/75,Córdoba,14,Presidente Roque Sáenz Peña,14084,2000,2000,3250,1625
+soja,1974,1974/75,Córdoba,14,Río Cuarto,14098,2500,2500,3200,1280
+soja,1974,1974/75,Córdoba,14,Río Segundo,14119,6500,6400,7680,1200
+soja,1974,1974/75,Córdoba,14,San Justo,14140,100,100,140,1400
+soja,1974,1974/75,Córdoba,14,Santa María,14147,3500,3410,4140,1214
+soja,1974,1974/75,Córdoba,14,Tercero Arriba,14161,19000,19000,26000,1368
+soja,1974,1974/75,Córdoba,14,Unión,14182,4000,4000,5600,1400
+soja,1974,1974/75,Corrientes,18,Capital,18021,20,19,23,1211
+soja,1974,1974/75,Corrientes,18,Concepción,18028,60,58,87,1500
+soja,1974,1974/75,Corrientes,18,Curuzu Cuatia,18035,100,90,108,1200
+soja,1974,1974/75,Corrientes,18,Empedrado,18042,80,73,87,1192
+soja,1974,1974/75,Corrientes,18,Esquina,18049,320,280,364,1300
+soja,1974,1974/75,Corrientes,18,General Alvear,18056,160,150,210,1400
+soja,1974,1974/75,Corrientes,18,General Paz,18063,60,56,72,1286
+soja,1974,1974/75,Corrientes,18,Itatí,18077,110,95,104,1095
+soja,1974,1974/75,Corrientes,18,Ituzaingó,18084,3220,3127,4110,1314
+soja,1974,1974/75,Corrientes,18,Monte Caseros,18112,300,295,472,1600
+soja,1974,1974/75,Corrientes,18,Paso de los Libres,18119,150,147,220,1497
+soja,1974,1974/75,Corrientes,18,Saladas,18126,100,95,123,1295
+soja,1974,1974/75,Corrientes,18,San Martín,18147,200,195,292,1497
+soja,1974,1974/75,Corrientes,18,San Roque,18161,20,20,28,1400
+soja,1974,1974/75,Corrientes,18,Santo Tomé,18168,13000,12800,19200,1500
+soja,1974,1974/75,Entre Ríos,30,Colón,30008,180,150,225,1500
+soja,1974,1974/75,Entre Ríos,30,Concordia,30015,300,265,388,1464
+soja,1974,1974/75,Entre Ríos,30,Federación,30028,60,55,74,1345
+soja,1974,1974/75,Entre Ríos,30,Federal,30035,60,55,74,1345
+soja,1974,1974/75,Entre Ríos,30,Gualeguay,30049,60,40,52,1300
+soja,1974,1974/75,Entre Ríos,30,Gualeguaychú,30056,110,90,112,1244
+soja,1974,1974/75,Entre Ríos,30,La Paz,30070,700,660,990,1500
+soja,1974,1974/75,Entre Ríos,30,Nogoyá,30077,60,55,77,1400
+soja,1974,1974/75,Entre Ríos,30,Paraná,30084,110,100,135,1350
+soja,1974,1974/75,Entre Ríos,30,Uruguay,30098,310,260,364,1400
+soja,1974,1974/75,Entre Ríos,30,Victoria,30105,10,10,15,1500
+soja,1974,1974/75,Entre Ríos,30,Villaguay,30113,240,210,294,1400
+soja,1974,1974/75,Formosa,34,Laishí,34021,130,100,100,1000
+soja,1974,1974/75,Formosa,34,Patiño,34035,350,350,430,1229
+soja,1974,1974/75,Formosa,34,Pilcomayo,34049,100,100,100,1000
+soja,1974,1974/75,Formosa,34,Pirané,34056,120,100,100,1000
+soja,1974,1974/75,Misiones,54,25 de Mayo,54119,1800,1770,2478,1400
+soja,1974,1974/75,Misiones,54,Apóstoles,54007,100,100,130,1300
+soja,1974,1974/75,Misiones,54,Cainguás,54014,3000,2960,4440,1500
+soja,1974,1974/75,Misiones,54,Candelaria,54021,400,400,520,1300
+soja,1974,1974/75,Misiones,54,Concepción,54035,300,300,390,1300
+soja,1974,1974/75,Misiones,54,El dorado,54042,1000,990,1440,1455
+soja,1974,1974/75,Misiones,54,General Manuel Belgrano,54049,1800,1790,2685,1500
+soja,1974,1974/75,Misiones,54,Guaraní,54056,500,500,750,1500
+soja,1974,1974/75,Misiones,54,Iguazú,54063,3500,3470,5205,1500
+soja,1974,1974/75,Misiones,54,Leandro N. Alem,54070,2000,1980,2970,1500
+soja,1974,1974/75,Misiones,54,Libertador General San Martín,54077,1700,1690,2535,1500
+soja,1974,1974/75,Misiones,54,Montecarlo,54084,2600,2580,3870,1500
+soja,1974,1974/75,Misiones,54,Oberá,54091,3700,3650,5475,1500
+soja,1974,1974/75,Misiones,54,San Ignacio,54098,1800,1780,2670,1500
+soja,1974,1974/75,Misiones,54,San Javier,54105,1400,1340,1742,1300
+soja,1974,1974/75,Misiones,54,San Pedro,54112,500,500,700,1400
+soja,1974,1974/75,Salta,66,Cerrillos,66035,95,95,95,1000
+soja,1974,1974/75,Salta,66,General José de San Martín,66056,95,95,109,1147
+soja,1974,1974/75,Salta,66,La Candelaria,66084,30,30,33,1100
+soja,1974,1974/75,Salta,66,Metán,66112,50,50,50,1000
+soja,1974,1974/75,Salta,66,Orán,66126,30,30,33,1100
+soja,1974,1974/75,Salta,66,Rosario de la Frontera,66140,50,50,50,1000
+soja,1974,1974/75,San Luis,74,Coronel Pringles,74021,300,220,173,786
+soja,1974,1974/75,San Luis,74,General Pedernera,74035,600,450,315,700
+soja,1974,1974/75,San Luis,74,Juan Martín de Pueyrredón,74056,80,60,42,700
+soja,1974,1974/75,Santa Fe,82,9 de Julio,82077,200,195,185,949
+soja,1974,1974/75,Santa Fe,82,Belgrano,82007,7000,6800,9500,1397
+soja,1974,1974/75,Santa Fe,82,Caseros,82014,67000,66000,94000,1424
+soja,1974,1974/75,Santa Fe,82,Castellanos,82021,300,280,390,1393
+soja,1974,1974/75,Santa Fe,82,Constitución,82028,39000,38000,54000,1421
+soja,1974,1974/75,Santa Fe,82,Garay,82035,100,95,114,1200
+soja,1974,1974/75,Santa Fe,82,General López,82042,20000,17000,22200,1306
+soja,1974,1974/75,Santa Fe,82,General Obligado,82049,2500,2000,2400,1200
+soja,1974,1974/75,Santa Fe,82,Iriondo,82056,12000,11630,14000,1204
+soja,1974,1974/75,Santa Fe,82,La Capital,82063,100,95,114,1200
+soja,1974,1974/75,Santa Fe,82,Las Colonias,82070,2000,1700,1955,1150
+soja,1974,1974/75,Santa Fe,82,Rosario,82084,41800,40770,55000,1349
+soja,1974,1974/75,Santa Fe,82,San Cristóbal,82091,100,95,95,1000
+soja,1974,1974/75,Santa Fe,82,San Javier,82098,500,400,480,1200
+soja,1974,1974/75,Santa Fe,82,San Jerónimo,82105,1000,900,1200,1333
+soja,1974,1974/75,Santa Fe,82,San Justo,82112,400,340,400,1176
+soja,1974,1974/75,Santa Fe,82,San Lorenzo,82119,18000,17800,24897,1399
+soja,1974,1974/75,Santa Fe,82,San Martín,82126,3000,2800,3300,1179
+soja,1974,1974/75,Santa Fe,82,Vera,82133,1000,700,770,1100
+soja,1974,1974/75,Santiago del Estero,86,Banda,86035,10,8,8,1000
+soja,1974,1974/75,Santiago del Estero,86,Jiménez,86091,15,11,11,1000
+soja,1974,1974/75,Santiago del Estero,86,Pellegrini,86133,325,291,350,1203
+soja,1974,1974/75,Santiago del Estero,86,Rivadavia,86154,80,70,84,1200
+soja,1974,1974/75,Santiago del Estero,86,Robles,86161,100,90,117,1300
+soja,1974,1974/75,Tucumán,90,Burruyacú,90007,15518,14018,18289,1305
+soja,1974,1974/75,Tucumán,90,Cruz Alta,90014,5790,5140,6682,1300
+soja,1974,1974/75,Tucumán,90,Graneros,90035,1285,1135,1362,1200
+soja,1974,1974/75,Tucumán,90,Leales,90056,1366,1186,1542,1300
+soja,1974,1974/75,Tucumán,90,Río Chico,90077,41,21,25,1190
+soja,1975,1975/76,Buenos Aires,06,25 de Mayo,06854,500,500,750,1500
+soja,1975,1975/76,Buenos Aires,06,9 de Julio,06588,200,200,280,1400
+soja,1975,1975/76,Buenos Aires,06,Adolfo Alsina,06007,100,87,68,782
+soja,1975,1975/76,Buenos Aires,06,Alberti,06021,100,100,130,1300
+soja,1975,1975/76,Buenos Aires,06,Arrecifes,06077,2500,2500,3750,1500
+soja,1975,1975/76,Buenos Aires,06,Azul,06049,30,0,0,0
+soja,1975,1975/76,Buenos Aires,06,Balcarce,06063,10,10,18,1800
+soja,1975,1975/76,Buenos Aires,06,Baradero,06070,1500,1500,2100,1400
+soja,1975,1975/76,Buenos Aires,06,Benito Juárez,06084,5,0,0,0
+soja,1975,1975/76,Buenos Aires,06,Bolívar,06105,70,63,60,952
+soja,1975,1975/76,Buenos Aires,06,Bragado,06112,200,200,280,1400
+soja,1975,1975/76,Buenos Aires,06,Capitán Sarmiento,06140,1300,1300,1950,1500
+soja,1975,1975/76,Buenos Aires,06,Carlos Casares,06147,30,10,14,1400
+soja,1975,1975/76,Buenos Aires,06,Carmen de Areco,06161,600,600,838,1397
+soja,1975,1975/76,Buenos Aires,06,Chacabuco,06210,1600,1600,2240,1400
+soja,1975,1975/76,Buenos Aires,06,Chivilcoy,06224,50,50,65,1300
+soja,1975,1975/76,Buenos Aires,06,Colón,06175,2000,2000,3000,1500
+soja,1975,1975/76,Buenos Aires,06,Coronel Suárez,06203,110,95,63,663
+soja,1975,1975/76,Buenos Aires,06,Daireaux,06231,20,18,16,889
+soja,1975,1975/76,Buenos Aires,06,Exaltación de la Cruz,06266,200,200,240,1200
+soja,1975,1975/76,Buenos Aires,06,General Alvarado,06280,120,120,228,1900
+soja,1975,1975/76,Buenos Aires,06,General Arenales,06294,1000,1000,1400,1400
+soja,1975,1975/76,Buenos Aires,06,General Paz,06343,600,600,720,1200
+soja,1975,1975/76,Buenos Aires,06,General Villegas,06392,350,350,420,1200
+soja,1975,1975/76,Buenos Aires,06,Guaminí,06399,150,135,130,963
+soja,1975,1975/76,Buenos Aires,06,Hipólito Yrigoyen,06406,350,320,576,1800
+soja,1975,1975/76,Buenos Aires,06,Junín,06413,1500,1500,2100,1400
+soja,1975,1975/76,Buenos Aires,06,Leandro N. Alem,06462,100,100,140,1400
+soja,1975,1975/76,Buenos Aires,06,Lincoln,06469,300,300,390,1300
+soja,1975,1975/76,Buenos Aires,06,Lobería,06476,40,40,72,1800
+soja,1975,1975/76,Buenos Aires,06,Mercedes,06532,400,400,480,1200
+soja,1975,1975/76,Buenos Aires,06,Olavarría,06595,10,0,0,0
+soja,1975,1975/76,Buenos Aires,06,Pergamino,06623,10000,10000,15000,1500
+soja,1975,1975/76,Buenos Aires,06,Ramallo,06665,5000,5000,7000,1400
+soja,1975,1975/76,Buenos Aires,06,Rivadavia,06679,50,30,36,1200
+soja,1975,1975/76,Buenos Aires,06,Rojas,06686,3000,3000,4500,1500
+soja,1975,1975/76,Buenos Aires,06,Roque Pérez,06693,200,100,100,1000
+soja,1975,1975/76,Buenos Aires,06,Saavedra,06700,10,7,5,714
+soja,1975,1975/76,Buenos Aires,06,Saladillo,06707,200,200,300,1500
+soja,1975,1975/76,Buenos Aires,06,Salliqueló,06721,180,165,150,909
+soja,1975,1975/76,Buenos Aires,06,Salto,06714,4200,4200,6271,1493
+soja,1975,1975/76,Buenos Aires,06,San Andrés de Giles,06728,100,100,120,1200
+soja,1975,1975/76,Buenos Aires,06,San Antonio de Areco,06735,1000,1000,1500,1500
+soja,1975,1975/76,Buenos Aires,06,San Nicolás,06763,1500,1500,2100,1400
+soja,1975,1975/76,Buenos Aires,06,San Pedro,06770,1500,1500,2100,1400
+soja,1975,1975/76,Buenos Aires,06,Suipacha,06784,100,100,120,1200
+soja,1975,1975/76,Buenos Aires,06,Tandil,06791,15,0,0,0
+soja,1975,1975/76,Buenos Aires,06,Zárate,06882,400,400,480,1200
+soja,1975,1975/76,Catamarca,10,Santa Rosa,10098,250,250,200,800
+soja,1975,1975/76,Chaco,22,12 de Octubre,22036,50,50,60,1200
+soja,1975,1975/76,Chaco,22,25 de Mayo,22168,60,60,68,1133
+soja,1975,1975/76,Chaco,22,Bermejo,22014,80,60,50,833
+soja,1975,1975/76,Chaco,22,Chacabuco,22028,180,180,220,1222
+soja,1975,1975/76,Chaco,22,Comandante Fernández,22021,400,400,450,1125
+soja,1975,1975/76,Chaco,22,General Belgrano,22049,100,100,115,1150
+soja,1975,1975/76,Chaco,22,General Donovan,22056,10,10,9,900
+soja,1975,1975/76,Chaco,22,Independencia,22070,400,400,470,1175
+soja,1975,1975/76,Chaco,22,Libertador General San Martín,22084,1030,880,800,909
+soja,1975,1975/76,Chaco,22,Maipú,22091,150,150,190,1267
+soja,1975,1975/76,Chaco,22,Presidencia de la Plaza,22119,30,30,35,1167
+soja,1975,1975/76,Chaco,22,Quitilipi,22133,130,110,125,1136
+soja,1975,1975/76,Chaco,22,San Fernando,22140,20,15,13,867
+soja,1975,1975/76,Chaco,22,Sargento Cabral,22154,60,55,45,818
+soja,1975,1975/76,Córdoba,14,Calamuchita,14007,400,400,480,1200
+soja,1975,1975/76,Córdoba,14,Capital,14014,50,50,60,1200
+soja,1975,1975/76,Córdoba,14,Colón,14021,150,150,180,1200
+soja,1975,1975/76,Córdoba,14,General Roca,14035,100,100,100,1000
+soja,1975,1975/76,Córdoba,14,General San Martín,14042,1200,1200,1440,1200
+soja,1975,1975/76,Córdoba,14,Juárez Celman,14056,5000,4700,5170,1100
+soja,1975,1975/76,Córdoba,14,Marcos Juárez,14063,7000,7000,8750,1250
+soja,1975,1975/76,Córdoba,14,Presidente Roque Sáenz Peña,14084,1000,1000,1000,1000
+soja,1975,1975/76,Córdoba,14,Río Cuarto,14098,3000,2800,2800,1000
+soja,1975,1975/76,Córdoba,14,Río Segundo,14119,15000,14000,15400,1100
+soja,1975,1975/76,Córdoba,14,San Justo,14140,100,100,120,1200
+soja,1975,1975/76,Córdoba,14,Santa María,14147,4500,4300,5160,1200
+soja,1975,1975/76,Córdoba,14,Tercero Arriba,14161,32000,30000,37215,1241
+soja,1975,1975/76,Córdoba,14,Unión,14182,4500,4500,5625,1250
+soja,1975,1975/76,Corrientes,18,Capital,18021,15,15,22,1467
+soja,1975,1975/76,Corrientes,18,Concepción,18028,30,29,43,1483
+soja,1975,1975/76,Corrientes,18,Curuzu Cuatia,18035,50,48,74,1542
+soja,1975,1975/76,Corrientes,18,Empedrado,18042,40,38,57,1500
+soja,1975,1975/76,Corrientes,18,Esquina,18049,200,190,304,1600
+soja,1975,1975/76,Corrientes,18,General Alvear,18056,100,96,154,1604
+soja,1975,1975/76,Corrientes,18,General Paz,18063,70,68,109,1603
+soja,1975,1975/76,Corrientes,18,Itatí,18077,100,93,142,1527
+soja,1975,1975/76,Corrientes,18,Ituzaingó,18084,1500,1470,2430,1653
+soja,1975,1975/76,Corrientes,18,Monte Caseros,18112,50,48,80,1667
+soja,1975,1975/76,Corrientes,18,Paso de los Libres,18119,95,90,150,1667
+soja,1975,1975/76,Corrientes,18,Saladas,18126,20,20,35,1750
+soja,1975,1975/76,Corrientes,18,San Martín,18147,150,145,210,1448
+soja,1975,1975/76,Corrientes,18,Santo Tomé,18168,15980,15800,26290,1664
+soja,1975,1975/76,Entre Ríos,30,Colón,30008,130,110,165,1500
+soja,1975,1975/76,Entre Ríos,30,Concordia,30015,220,200,280,1400
+soja,1975,1975/76,Entre Ríos,30,Diamante,30021,130,120,192,1600
+soja,1975,1975/76,Entre Ríos,30,Federación,30028,40,35,49,1400
+soja,1975,1975/76,Entre Ríos,30,Federal,30035,40,35,49,1400
+soja,1975,1975/76,Entre Ríos,30,Gualeguaychú,30056,80,60,78,1300
+soja,1975,1975/76,Entre Ríos,30,La Paz,30070,610,570,1026,1800
+soja,1975,1975/76,Entre Ríos,30,Nogoyá,30077,90,90,126,1400
+soja,1975,1975/76,Entre Ríos,30,Paraná,30084,500,480,720,1500
+soja,1975,1975/76,Entre Ríos,30,Uruguay,30098,260,230,297,1291
+soja,1975,1975/76,Entre Ríos,30,Victoria,30105,20,20,28,1400
+soja,1975,1975/76,Entre Ríos,30,Villaguay,30113,180,150,210,1400
+soja,1975,1975/76,Formosa,34,Laishí,34021,50,50,50,1000
+soja,1975,1975/76,Formosa,34,Patiño,34035,300,300,273,910
+soja,1975,1975/76,Formosa,34,Pilcomayo,34049,80,80,64,800
+soja,1975,1975/76,Formosa,34,Pirané,34056,70,70,63,900
+soja,1975,1975/76,Misiones,54,25 de Mayo,54119,1700,1690,2366,1400
+soja,1975,1975/76,Misiones,54,Apóstoles,54007,90,90,108,1200
+soja,1975,1975/76,Misiones,54,Cainguás,54014,2900,2880,4032,1400
+soja,1975,1975/76,Misiones,54,Candelaria,54021,420,415,540,1301
+soja,1975,1975/76,Misiones,54,Capital,54028,20,20,26,1300
+soja,1975,1975/76,Misiones,54,Concepción,54035,250,247,346,1401
+soja,1975,1975/76,Misiones,54,El dorado,54042,950,945,1323,1400
+soja,1975,1975/76,Misiones,54,General Manuel Belgrano,54049,1600,1590,2067,1300
+soja,1975,1975/76,Misiones,54,Guaraní,54056,1850,1840,2576,1400
+soja,1975,1975/76,Misiones,54,Iguazú,54063,600,596,775,1300
+soja,1975,1975/76,Misiones,54,Leandro N. Alem,54070,3290,3270,3930,1202
+soja,1975,1975/76,Misiones,54,Libertador General San Martín,54077,2093,2080,2711,1303
+soja,1975,1975/76,Misiones,54,Montecarlo,54084,2500,2490,3237,1300
+soja,1975,1975/76,Misiones,54,Oberá,54091,3737,3707,5208,1405
+soja,1975,1975/76,Misiones,54,San Ignacio,54098,1750,1740,2436,1400
+soja,1975,1975/76,Misiones,54,San Javier,54105,1450,1440,1759,1222
+soja,1975,1975/76,Misiones,54,San Pedro,54112,400,400,560,1400
+soja,1975,1975/76,Salta,66,Cerrillos,66035,30,30,41,1367
+soja,1975,1975/76,Salta,66,Metán,66112,30,30,39,1300
+soja,1975,1975/76,Santa Fe,82,9 de Julio,82077,100,90,86,956
+soja,1975,1975/76,Santa Fe,82,Belgrano,82007,8500,8300,14100,1699
+soja,1975,1975/76,Santa Fe,82,Caseros,82014,80000,79500,142000,1786
+soja,1975,1975/76,Santa Fe,82,Castellanos,82021,100,90,99,1100
+soja,1975,1975/76,Santa Fe,82,Constitución,82028,44000,43800,80000,1826
+soja,1975,1975/76,Santa Fe,82,Garay,82035,100,90,99,1100
+soja,1975,1975/76,Santa Fe,82,General López,82042,20000,20000,33000,1650
+soja,1975,1975/76,Santa Fe,82,General Obligado,82049,2000,1500,1500,1000
+soja,1975,1975/76,Santa Fe,82,Iriondo,82056,14700,14300,25384,1775
+soja,1975,1975/76,Santa Fe,82,La Capital,82063,500,450,585,1300
+soja,1975,1975/76,Santa Fe,82,Las Colonias,82070,200,180,270,1500
+soja,1975,1975/76,Santa Fe,82,Rosario,82084,47000,46490,86000,1850
+soja,1975,1975/76,Santa Fe,82,San Cristóbal,82091,100,70,67,957
+soja,1975,1975/76,Santa Fe,82,San Javier,82098,500,400,480,1200
+soja,1975,1975/76,Santa Fe,82,San Jerónimo,82105,1500,1450,2200,1517
+soja,1975,1975/76,Santa Fe,82,San Justo,82112,200,180,230,1278
+soja,1975,1975/76,Santa Fe,82,San Lorenzo,82119,26000,24960,42500,1703
+soja,1975,1975/76,Santa Fe,82,San Martín,82126,3500,3350,4700,1403
+soja,1975,1975/76,Santa Fe,82,Vera,82133,1000,700,700,1000
+soja,1975,1975/76,Santiago del Estero,86,Banda,86035,5,0,0,0
+soja,1975,1975/76,Santiago del Estero,86,Jiménez,86091,5,0,0,0
+soja,1975,1975/76,Santiago del Estero,86,Pellegrini,86133,190,150,150,1000
+soja,1975,1975/76,Santiago del Estero,86,Rivadavia,86154,40,30,30,1000
+soja,1975,1975/76,Santiago del Estero,86,Robles,86161,50,20,20,1000
+soja,1975,1975/76,Tucumán,90,Burruyacú,90007,16018,16018,28913,1805
+soja,1975,1975/76,Tucumán,90,Cruz Alta,90014,5790,5790,10422,1800
+soja,1975,1975/76,Tucumán,90,Graneros,90035,2000,2000,3200,1600
+soja,1975,1975/76,Tucumán,90,Leales,90056,1000,1000,1615,1615
+soja,1975,1975/76,Tucumán,90,Río Chico,90077,92,92,150,1630
+soja,1976,1976/77,Buenos Aires,06,25 de Mayo,06854,250,200,320,1600
+soja,1976,1976/77,Buenos Aires,06,9 de Julio,06588,100,80,96,1200
+soja,1976,1976/77,Buenos Aires,06,Adolfo Alsina,06007,490,440,396,900
+soja,1976,1976/77,Buenos Aires,06,Alberti,06021,100,100,120,1200
+soja,1976,1976/77,Buenos Aires,06,Arrecifes,06077,2800,2600,4420,1700
+soja,1976,1976/77,Buenos Aires,06,Baradero,06070,1800,1800,2700,1500
+soja,1976,1976/77,Buenos Aires,06,Bolívar,06105,58,58,139,2397
+soja,1976,1976/77,Buenos Aires,06,Bragado,06112,100,100,140,1400
+soja,1976,1976/77,Buenos Aires,06,Capitán Sarmiento,06140,1500,1350,2227,1650
+soja,1976,1976/77,Buenos Aires,06,Carlos Casares,06147,250,100,150,1500
+soja,1976,1976/77,Buenos Aires,06,Carlos Tejedor,06154,30,20,22,1100
+soja,1976,1976/77,Buenos Aires,06,Carmen de Areco,06161,500,400,640,1600
+soja,1976,1976/77,Buenos Aires,06,Chacabuco,06210,1700,1200,2040,1700
+soja,1976,1976/77,Buenos Aires,06,Chivilcoy,06224,50,50,60,1200
+soja,1976,1976/77,Buenos Aires,06,Colón,06175,2500,1900,3135,1650
+soja,1976,1976/77,Buenos Aires,06,Coronel Suárez,06203,50,40,36,900
+soja,1976,1976/77,Buenos Aires,06,Exaltación de la Cruz,06266,250,250,325,1300
+soja,1976,1976/77,Buenos Aires,06,General Arenales,06294,1300,1000,1600,1600
+soja,1976,1976/77,Buenos Aires,06,General Pinto,06351,600,420,420,1000
+soja,1976,1976/77,Buenos Aires,06,General Viamonte,06385,200,150,240,1600
+soja,1976,1976/77,Buenos Aires,06,General Villegas,06392,400,250,250,1000
+soja,1976,1976/77,Buenos Aires,06,Guaminí,06399,100,60,60,1000
+soja,1976,1976/77,Buenos Aires,06,Hipólito Yrigoyen,06406,300,220,330,1500
+soja,1976,1976/77,Buenos Aires,06,Junín,06413,2000,1600,2640,1650
+soja,1976,1976/77,Buenos Aires,06,La Plata,06441,100,100,200,2000
+soja,1976,1976/77,Buenos Aires,06,Leandro N. Alem,06462,300,230,368,1600
+soja,1976,1976/77,Buenos Aires,06,Lincoln,06469,300,240,240,1000
+soja,1976,1976/77,Buenos Aires,06,Mercedes,06532,500,500,750,1500
+soja,1976,1976/77,Buenos Aires,06,Monte,06547,392,392,720,1837
+soja,1976,1976/77,Buenos Aires,06,Pehuajó,06609,1500,1200,1680,1400
+soja,1976,1976/77,Buenos Aires,06,Pergamino,06623,12000,11190,18086,1616
+soja,1976,1976/77,Buenos Aires,06,Ramallo,06665,6000,6000,9000,1500
+soja,1976,1976/77,Buenos Aires,06,Rojas,06686,3200,3000,5100,1700
+soja,1976,1976/77,Buenos Aires,06,Saladillo,06707,50,50,75,1500
+soja,1976,1976/77,Buenos Aires,06,Salliqueló,06721,80,60,60,1000
+soja,1976,1976/77,Buenos Aires,06,Salto,06714,5000,4500,7650,1700
+soja,1976,1976/77,Buenos Aires,06,San Andrés de Giles,06728,100,100,130,1300
+soja,1976,1976/77,Buenos Aires,06,San Antonio de Areco,06735,1000,1000,1500,1500
+soja,1976,1976/77,Buenos Aires,06,San Nicolás,06763,1700,1700,2550,1500
+soja,1976,1976/77,Buenos Aires,06,San Pedro,06770,1800,1800,2700,1500
+soja,1976,1976/77,Buenos Aires,06,Suipacha,06784,100,100,100,1000
+soja,1976,1976/77,Buenos Aires,06,Zárate,06882,450,450,585,1300
+soja,1976,1976/77,Catamarca,10,Santa Rosa,10098,500,500,500,1000
+soja,1976,1976/77,Chaco,22,25 de Mayo,22168,30,30,30,1000
+soja,1976,1976/77,Chaco,22,Bermejo,22014,50,50,55,1100
+soja,1976,1976/77,Chaco,22,Chacabuco,22028,100,80,65,813
+soja,1976,1976/77,Chaco,22,Comandante Fernández,22021,120,120,145,1208
+soja,1976,1976/77,Chaco,22,General Belgrano,22049,50,50,45,900
+soja,1976,1976/77,Chaco,22,General Donovan,22056,10,10,10,1000
+soja,1976,1976/77,Chaco,22,Independencia,22070,200,200,190,950
+soja,1976,1976/77,Chaco,22,Libertador General San Martín,22084,1230,1150,1240,1078
+soja,1976,1976/77,Chaco,22,Maipú,22091,40,40,45,1125
+soja,1976,1976/77,Chaco,22,Quitilipi,22133,110,110,120,1091
+soja,1976,1976/77,Chaco,22,San Fernando,22140,30,30,28,933
+soja,1976,1976/77,Chaco,22,Sargento Cabral,22154,30,30,27,900
+soja,1976,1976/77,Córdoba,14,Calamuchita,14007,450,310,560,1806
+soja,1976,1976/77,Córdoba,14,Capital,14014,50,40,72,1800
+soja,1976,1976/77,Córdoba,14,Colón,14021,200,160,288,1800
+soja,1976,1976/77,Córdoba,14,General San Martín,14042,2000,1900,3610,1900
+soja,1976,1976/77,Córdoba,14,Juárez Celman,14056,6800,6800,10880,1600
+soja,1976,1976/77,Córdoba,14,Marcos Juárez,14063,20000,18500,37000,2000
+soja,1976,1976/77,Córdoba,14,Presidente Roque Sáenz Peña,14084,500,200,320,1600
+soja,1976,1976/77,Córdoba,14,Río Cuarto,14098,6000,6000,9620,1603
+soja,1976,1976/77,Córdoba,14,Río Segundo,14119,18500,15000,27000,1800
+soja,1976,1976/77,Córdoba,14,San Justo,14140,1000,900,1620,1800
+soja,1976,1976/77,Córdoba,14,Santa María,14147,7000,5850,10530,1800
+soja,1976,1976/77,Córdoba,14,Tercero Arriba,14161,36500,30840,56300,1826
+soja,1976,1976/77,Córdoba,14,Unión,14182,5000,4000,7200,1800
+soja,1976,1976/77,Corrientes,18,Concepción,18028,120,110,143,1300
+soja,1976,1976/77,Corrientes,18,Empedrado,18042,70,65,65,1000
+soja,1976,1976/77,Corrientes,18,Goya,18070,100,60,30,500
+soja,1976,1976/77,Corrientes,18,Ituzaingó,18084,5000,4900,7350,1500
+soja,1976,1976/77,Corrientes,18,Santo Tomé,18168,20710,20365,32412,1592
+soja,1976,1976/77,Entre Ríos,30,Colón,30008,200,190,285,1500
+soja,1976,1976/77,Entre Ríos,30,Concordia,30015,250,240,360,1500
+soja,1976,1976/77,Entre Ríos,30,Diamante,30021,450,430,645,1500
+soja,1976,1976/77,Entre Ríos,30,Federación,30028,80,75,109,1453
+soja,1976,1976/77,Entre Ríos,30,Federal,30035,80,75,109,1453
+soja,1976,1976/77,Entre Ríos,30,Gualeguay,30049,150,140,210,1500
+soja,1976,1976/77,Entre Ríos,30,Gualeguaychú,30056,200,185,259,1400
+soja,1976,1976/77,Entre Ríos,30,La Paz,30070,2040,1950,3000,1538
+soja,1976,1976/77,Entre Ríos,30,Nogoyá,30077,1500,1470,2205,1500
+soja,1976,1976/77,Entre Ríos,30,Paraná,30084,2400,2345,3375,1439
+soja,1976,1976/77,Entre Ríos,30,Tala,30091,100,100,150,1500
+soja,1976,1976/77,Entre Ríos,30,Uruguay,30098,700,680,1020,1500
+soja,1976,1976/77,Entre Ríos,30,Victoria,30105,500,490,778,1588
+soja,1976,1976/77,Entre Ríos,30,Villaguay,30113,350,330,495,1500
+soja,1976,1976/77,Formosa,34,Patiño,34035,200,200,200,1000
+soja,1976,1976/77,Formosa,34,Pilagás,34042,100,100,100,1000
+soja,1976,1976/77,Formosa,34,Pilcomayo,34049,80,80,80,1000
+soja,1976,1976/77,Formosa,34,Pirané,34056,120,120,120,1000
+soja,1976,1976/77,Misiones,54,25 de Mayo,54119,2100,2095,2562,1223
+soja,1976,1976/77,Misiones,54,Apóstoles,54007,600,600,1020,1700
+soja,1976,1976/77,Misiones,54,Cainguás,54014,3700,3690,6500,1762
+soja,1976,1976/77,Misiones,54,Candelaria,54021,520,520,780,1500
+soja,1976,1976/77,Misiones,54,Capital,54028,2200,2190,3920,1790
+soja,1976,1976/77,Misiones,54,Concepción,54035,300,300,450,1500
+soja,1976,1976/77,Misiones,54,El dorado,54042,1200,1195,2023,1693
+soja,1976,1976/77,Misiones,54,General Manuel Belgrano,54049,2000,1995,3500,1754
+soja,1976,1976/77,Misiones,54,Guaraní,54056,2100,2095,3770,1800
+soja,1976,1976/77,Misiones,54,Iguazú,54063,750,750,1200,1600
+soja,1976,1976/77,Misiones,54,Leandro N. Alem,54070,4130,4120,6677,1621
+soja,1976,1976/77,Misiones,54,Libertador General San Martín,54077,2700,2690,4573,1700
+soja,1976,1976/77,Misiones,54,Montecarlo,54084,3200,3190,4800,1505
+soja,1976,1976/77,Misiones,54,Oberá,54091,5000,4980,7900,1586
+soja,1976,1976/77,Misiones,54,San Ignacio,54098,2200,2195,3732,1700
+soja,1976,1976/77,Misiones,54,San Javier,54105,1800,1795,2693,1500
+soja,1976,1976/77,Misiones,54,San Pedro,54112,500,500,900,1800
+soja,1976,1976/77,Salta,66,Anta,66007,800,750,1600,2133
+soja,1976,1976/77,Salta,66,Cerrillos,66035,30,30,40,1333
+soja,1976,1976/77,Salta,66,General José de San Martín,66056,900,800,1700,2125
+soja,1976,1976/77,Salta,66,Metán,66112,200,200,380,1900
+soja,1976,1976/77,Salta,66,Orán,66126,370,370,740,2000
+soja,1976,1976/77,Salta,66,Rosario de la Frontera,66140,700,650,1540,2369
+soja,1976,1976/77,Santa Fe,82,9 de Julio,82077,100,90,135,1500
+soja,1976,1976/77,Santa Fe,82,Belgrano,82007,20000,19500,42900,2200
+soja,1976,1976/77,Santa Fe,82,Caseros,82014,143500,130000,328000,2523
+soja,1976,1976/77,Santa Fe,82,Castellanos,82021,100,90,135,1500
+soja,1976,1976/77,Santa Fe,82,Constitución,82028,96000,95000,225000,2368
+soja,1976,1976/77,Santa Fe,82,Garay,82035,100,80,136,1700
+soja,1976,1976/77,Santa Fe,82,General López,82042,30000,28000,60200,2150
+soja,1976,1976/77,Santa Fe,82,General Obligado,82049,1500,1350,2160,1600
+soja,1976,1976/77,Santa Fe,82,Iriondo,82056,22300,22250,56249,2528
+soja,1976,1976/77,Santa Fe,82,La Capital,82063,500,450,720,1600
+soja,1976,1976/77,Santa Fe,82,Las Colonias,82070,600,500,850,1700
+soja,1976,1976/77,Santa Fe,82,Rosario,82084,64500,60470,133000,2199
+soja,1976,1976/77,Santa Fe,82,San Cristóbal,82091,100,90,135,1500
+soja,1976,1976/77,Santa Fe,82,San Javier,82098,500,400,640,1600
+soja,1976,1976/77,Santa Fe,82,San Jerónimo,82105,3000,2850,6000,2105
+soja,1976,1976/77,Santa Fe,82,San Justo,82112,200,180,300,1667
+soja,1976,1976/77,Santa Fe,82,San Lorenzo,82119,47000,39000,104400,2677
+soja,1976,1976/77,Santa Fe,82,San Martín,82126,4000,3800,7600,2000
+soja,1976,1976/77,Santa Fe,82,Vera,82133,1000,900,1440,1600
+soja,1976,1976/77,Santiago del Estero,86,Banda,86035,5,0,0,0
+soja,1976,1976/77,Santiago del Estero,86,Jiménez,86091,3995,3900,6780,1738
+soja,1976,1976/77,Santiago del Estero,86,Pellegrini,86133,2600,2600,4680,1800
+soja,1976,1976/77,Santiago del Estero,86,Río Hondo,86147,150,150,240,1600
+soja,1976,1976/77,Santiago del Estero,86,Rivadavia,86154,100,100,120,1200
+soja,1976,1976/77,Santiago del Estero,86,Robles,86161,150,150,180,1200
+soja,1976,1976/77,Tucumán,90,Burruyacú,90007,19210,19180,32372,1688
+soja,1976,1976/77,Tucumán,90,Cruz Alta,90014,9935,9905,16000,1615
+soja,1976,1976/77,Tucumán,90,Graneros,90035,3730,3710,7049,1900
+soja,1976,1976/77,Tucumán,90,Leales,90056,2795,2675,4000,1495
+soja,1976,1976/77,Tucumán,90,Río Chico,90077,180,180,324,1800
+soja,1976,1976/77,Tucumán,90,Trancas,90112,150,150,255,1700
+soja,1977,1977/78,Buenos Aires,06,25 de Mayo,06854,1000,1000,1400,1400
+soja,1977,1977/78,Buenos Aires,06,9 de Julio,06588,1700,1600,2900,1813
+soja,1977,1977/78,Buenos Aires,06,Adolfo Alsina,06007,590,500,460,920
+soja,1977,1977/78,Buenos Aires,06,Alberti,06021,1130,1130,2100,1858
+soja,1977,1977/78,Buenos Aires,06,Arrecifes,06077,5100,5100,11700,2294
+soja,1977,1977/78,Buenos Aires,06,Baradero,06070,2300,2300,4500,1957
+soja,1977,1977/78,Buenos Aires,06,Berazategui,06091,280,230,450,1957
+soja,1977,1977/78,Buenos Aires,06,Bolívar,06105,230,230,280,1217
+soja,1977,1977/78,Buenos Aires,06,Bragado,06112,4500,4500,8550,1900
+soja,1977,1977/78,Buenos Aires,06,Brandsen,06119,100,80,130,1625
+soja,1977,1977/78,Buenos Aires,06,Campana,06126,110,110,180,1636
+soja,1977,1977/78,Buenos Aires,06,Cañuelas,06134,230,200,300,1500
+soja,1977,1977/78,Buenos Aires,06,Capitán Sarmiento,06140,4000,4000,8000,2000
+soja,1977,1977/78,Buenos Aires,06,Carlos Casares,06147,560,500,900,1800
+soja,1977,1977/78,Buenos Aires,06,Carlos Tejedor,06154,1700,1600,2600,1625
+soja,1977,1977/78,Buenos Aires,06,Carmen de Areco,06161,2800,2800,6200,2214
+soja,1977,1977/78,Buenos Aires,06,Chacabuco,06210,6800,6800,13400,1971
+soja,1977,1977/78,Buenos Aires,06,Chascomús,06218,170,150,250,1667
+soja,1977,1977/78,Buenos Aires,06,Chivilcoy,06224,2300,2300,4400,1913
+soja,1977,1977/78,Buenos Aires,06,Colón,06175,4300,4300,10000,2326
+soja,1977,1977/78,Buenos Aires,06,Coronel Suárez,06203,120,90,80,889
+soja,1977,1977/78,Buenos Aires,06,Daireaux,06231,340,280,340,1214
+soja,1977,1977/78,Buenos Aires,06,Exaltación de la Cruz,06266,680,680,1300,1912
+soja,1977,1977/78,Buenos Aires,06,General Arenales,06294,3600,3530,6300,1785
+soja,1977,1977/78,Buenos Aires,06,General Belgrano,06301,450,400,740,1850
+soja,1977,1977/78,Buenos Aires,06,General La Madrid,06322,70,60,54,900
+soja,1977,1977/78,Buenos Aires,06,General Paz,06343,220,190,306,1611
+soja,1977,1977/78,Buenos Aires,06,General Pinto,06351,2000,1800,3100,1722
+soja,1977,1977/78,Buenos Aires,06,General Viamonte,06385,2000,2000,4100,2050
+soja,1977,1977/78,Buenos Aires,06,General Villegas,06392,1350,1250,2200,1760
+soja,1977,1977/78,Buenos Aires,06,Guaminí,06399,200,170,210,1235
+soja,1977,1977/78,Buenos Aires,06,Hipólito Yrigoyen,06406,850,700,1300,1857
+soja,1977,1977/78,Buenos Aires,06,Junín,06413,4700,4700,9700,2064
+soja,1977,1977/78,Buenos Aires,06,La Plata,06441,220,200,300,1500
+soja,1977,1977/78,Buenos Aires,06,Leandro N. Alem,06462,340,340,650,1912
+soja,1977,1977/78,Buenos Aires,06,Lincoln,06469,2000,1900,3300,1737
+soja,1977,1977/78,Buenos Aires,06,Lobos,06483,850,800,1200,1500
+soja,1977,1977/78,Buenos Aires,06,Magdalena,06505,120,100,150,1500
+soja,1977,1977/78,Buenos Aires,06,Mercedes,06532,900,900,1800,2000
+soja,1977,1977/78,Buenos Aires,06,Monte,06547,620,570,1030,1807
+soja,1977,1977/78,Buenos Aires,06,Olavarría,06595,120,110,140,1273
+soja,1977,1977/78,Buenos Aires,06,Pehuajó,06609,2300,2200,4100,1864
+soja,1977,1977/78,Buenos Aires,06,Pellegrini,06616,170,140,170,1214
+soja,1977,1977/78,Buenos Aires,06,Pergamino,06623,31000,31000,76000,2452
+soja,1977,1977/78,Buenos Aires,06,Pila,06630,400,380,600,1579
+soja,1977,1977/78,Buenos Aires,06,Puán,06651,300,300,270,900
+soja,1977,1977/78,Buenos Aires,06,Ramallo,06665,7900,7900,15500,1962
+soja,1977,1977/78,Buenos Aires,06,Rivadavia,06679,960,810,1230,1519
+soja,1977,1977/78,Buenos Aires,06,Rojas,06686,9000,9000,20100,2233
+soja,1977,1977/78,Buenos Aires,06,Saavedra,06700,60,50,45,900
+soja,1977,1977/78,Buenos Aires,06,Salliqueló,06721,220,180,220,1222
+soja,1977,1977/78,Buenos Aires,06,Salto,06714,25100,25000,62000,2480
+soja,1977,1977/78,Buenos Aires,06,San Andrés de Giles,06728,1100,1100,2175,1977
+soja,1977,1977/78,Buenos Aires,06,San Antonio de Areco,06735,1100,1100,2100,1909
+soja,1977,1977/78,Buenos Aires,06,San Nicolás,06763,2200,2200,4300,1955
+soja,1977,1977/78,Buenos Aires,06,San Pedro,06770,5600,5600,11000,1964
+soja,1977,1977/78,Buenos Aires,06,San Vicente,06778,10,10,12,1200
+soja,1977,1977/78,Buenos Aires,06,Suipacha,06784,560,560,1000,1786
+soja,1977,1977/78,Buenos Aires,06,Tornquist,06819,230,230,188,817
+soja,1977,1977/78,Buenos Aires,06,Trenque Lauquen,06826,450,350,560,1600
+soja,1977,1977/78,Buenos Aires,06,Villarino,06875,110,110,110,1000
+soja,1977,1977/78,Buenos Aires,06,Zárate,06882,680,680,1320,1941
+soja,1977,1977/78,Catamarca,10,Capayán,10042,140,140,140,1000
+soja,1977,1977/78,Catamarca,10,Santa Rosa,10098,560,560,560,1000
+soja,1977,1977/78,Chaco,22,12 de Octubre,22036,20,20,20,1000
+soja,1977,1977/78,Chaco,22,25 de Mayo,22168,40,40,40,1000
+soja,1977,1977/78,Chaco,22,9 de Julio,22105,10,10,9,900
+soja,1977,1977/78,Chaco,22,Almirante Brown,22007,20,20,15,750
+soja,1977,1977/78,Chaco,22,Bermejo,22014,100,100,110,1100
+soja,1977,1977/78,Chaco,22,Chacabuco,22028,40,40,40,1000
+soja,1977,1977/78,Chaco,22,Comandante Fernández,22021,100,100,130,1300
+soja,1977,1977/78,Chaco,22,Fray Justo Santa María de Oro,22043,20,20,18,900
+soja,1977,1977/78,Chaco,22,General Belgrano,22049,20,20,20,1000
+soja,1977,1977/78,Chaco,22,General Donovan,22056,5,5,5,1000
+soja,1977,1977/78,Chaco,22,General Güemes,22063,15,15,10,667
+soja,1977,1977/78,Chaco,22,Independencia,22070,50,50,60,1200
+soja,1977,1977/78,Chaco,22,Libertador General San Martín,22084,1260,1260,1593,1264
+soja,1977,1977/78,Chaco,22,Maipú,22091,20,20,16,800
+soja,1977,1977/78,Chaco,22,Mayor Luis J. Fontana,22098,30,30,30,1000
+soja,1977,1977/78,Chaco,22,O'Higgins,22112,10,10,9,900
+soja,1977,1977/78,Chaco,22,Quitilipi,22133,60,60,65,1083
+soja,1977,1977/78,Chaco,22,San Fernando,22140,150,150,180,1200
+soja,1977,1977/78,Chaco,22,Sargento Cabral,22154,30,30,30,1000
+soja,1977,1977/78,Córdoba,14,Calamuchita,14007,500,500,850,1700
+soja,1977,1977/78,Córdoba,14,Capital,14014,50,50,90,1800
+soja,1977,1977/78,Córdoba,14,Colón,14021,250,250,500,2000
+soja,1977,1977/78,Córdoba,14,General San Martín,14042,3000,3000,6600,2200
+soja,1977,1977/78,Córdoba,14,Juárez Celman,14056,9000,9000,16200,1800
+soja,1977,1977/78,Córdoba,14,Marcos Juárez,14063,39000,39000,93100,2387
+soja,1977,1977/78,Córdoba,14,Río Cuarto,14098,7000,7000,12600,1800
+soja,1977,1977/78,Córdoba,14,Río Segundo,14119,11600,11300,22400,1982
+soja,1977,1977/78,Córdoba,14,San Justo,14140,1000,1000,1700,1700
+soja,1977,1977/78,Córdoba,14,Santa María,14147,11200,11000,23600,2145
+soja,1977,1977/78,Córdoba,14,Tercero Arriba,14161,46300,45800,100900,2203
+soja,1977,1977/78,Córdoba,14,Unión,14182,9000,9000,21460,2384
